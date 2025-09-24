@@ -1,0 +1,20 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.DS_Store
+
+# Vite / build
+dist/
+build/
+
+# VSCode
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Mac/Windows
+Thumbs.db
